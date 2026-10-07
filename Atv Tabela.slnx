@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Default" />
+    <Platform Name="Default" />
+  </Configurations>
+  <Folder Name="/Itens de Solução/">
+    <File Path="../../../Downloads/SQLFile9.sql" />
+  </Folder>
+</Solution>
